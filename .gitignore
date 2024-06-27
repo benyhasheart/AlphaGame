@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Unreal Content folder
-Content
-GraphicSource
+Content/*
+GraphicSource/*
